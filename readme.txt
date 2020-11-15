@@ -10,4 +10,4 @@ create a new branch is quick .........
 
 I am dev file
 I am a bug, but fixed.
-
+<<<<<<< HEAD
